@@ -1,0 +1,25 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "全栈",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "mongodb": "^3.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/againF/fullStack.git"
+  },
+  "author": "Alan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/againF/fullStack/issues"
+  },
+  "homepage": "https://github.com/againF/fullStack#readme"
+}
